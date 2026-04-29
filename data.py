@@ -1,0 +1,22 @@
+words = [
+    {"word": "python", "tip": "Linguagem de programação"},
+    {"word": "mouse", "tip": "Usado para clicar"},
+    {"word": "monitor", "tip": "Tela do computador"},
+    {"word": "teclado", "tip": "Usado para digitar"},
+    {"word": "internet", "tip": "Rede mundial de computadores"},
+    {"word": "computador", "tip": "Máquina que processa dados"},
+    {"word": "notebook", "tip": "Computador portátil"},
+    {"word": "celular", "tip": "Dispositivo móvel de comunicação"},
+    {"word": "programador", "tip": "Pessoa que escreve código"},
+    {"word": "algoritmo", "tip": "Sequência de passos para resolver um problema"},
+    {"word": "software", "tip": "Parte lógica de um sistema"},
+    {"word": "hardware", "tip": "Parte física do computador"},
+    {"word": "memoria", "tip": "Armazena dados temporariamente"},
+    {"word": "processador", "tip": "Cérebro do computador"},
+    {"word": "servidor", "tip": "Fornece serviços em uma rede"},
+    {"word": "banco", "tip": "Local onde os dados podem ser armazenados"},
+    {"word": "dados", "tip": "Informações processadas"},
+    {"word": "codigo", "tip": "Conjunto de instruções para o computador"},
+    {"word": "debug", "tip": "Processo de encontrar erros"},
+    {"word": "compilar", "tip": "Transformar código em programa executável"}
+]
